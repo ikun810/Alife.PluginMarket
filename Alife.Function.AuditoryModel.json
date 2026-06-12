@@ -1,0 +1,17 @@
+{
+  "id": "Alife.Function.AuditoryModel",
+  "name": "SenseVoice语音识别",
+  "description": "基于SenseVoice(ONNX)的本地语音识别引擎。",
+  "environments": {
+    "nuget": {
+      "org.k2fsa.sherpa.onnx": ">=1.13.2"
+    }
+  },
+  "releases": {
+    "1.0.0": {
+      "date": "2026-6-11",
+      "note": "初始版本",
+      "file": "https://github.com/BDFFZI/Alife.Functions/raw/refs/heads/main/Alife.Function.AuditoryModel/1.0.0.zip"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Alife.Function.Memory",
+  "name": "持久记忆",
+  "description": "自动管理与分层压缩对话记忆，提供长期记忆检索能力。",
+  "dependencies": {
+    "Alife.Function.FunctionCaller": ""
+  },
+  "environments": {
+    "nuget": {
+      "DuckDB.NET.Data.Full": ">=1.5.3"
+    },
+    "pip": {
+      "transformers": "",
+      "torch": "",
+      "sentencepiece": ""
+    }
+  },
+  "releases": {
+    "1.0.0": {
+      "date": "2026-6-11",
+      "note": "初始版本",
+      "file": "https://github.com/BDFFZI/Alife.Functions/raw/refs/heads/main/Alife.Function.Memory/1.0.0.zip"
+    }
+  }
+}

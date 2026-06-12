@@ -1,0 +1,16 @@
+{
+  "id": "Alife.Function.QChat",
+  "name": "QQ聊天",
+  "description": "通过OneBot v11 WebSocket连接实现QQ消息收发与文件传输，支持私聊/群聊、CQ码、表情库、语音合成、群监控自动唤醒。",
+  "dependencies": {
+    "Alife.Function.FunctionCaller": "",
+    "Alife.Function.Speech": ""
+  },
+  "releases": {
+    "1.0.0": {
+      "date": "2026-6-11",
+      "note": "初始版本",
+      "file": "https://github.com/BDFFZI/Alife.Functions/raw/refs/heads/main/Alife.Function.QChat/1.0.0.zip"
+    }
+  }
+}

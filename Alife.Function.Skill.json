@@ -1,0 +1,15 @@
+{
+  "id": "Alife.Function.Skill",
+  "name": "Skill工具",
+  "description": "渐进式（按需、省token）工具包系统；使用预编写的手册引导和约束AI完成复杂任务。可通过 modelscope skills add 添加新技能。",
+  "dependencies": {
+    "Alife.Function.FunctionCaller": ""
+  },
+  "releases": {
+    "1.0.0": {
+      "date": "2026-6-11",
+      "note": "初始版本",
+      "file": "https://github.com/BDFFZI/Alife.Functions/raw/refs/heads/main/Alife.Function.Skill/1.0.0.zip"
+    }
+  }
+}

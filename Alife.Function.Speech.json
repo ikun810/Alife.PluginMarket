@@ -1,0 +1,22 @@
+{
+  "id": "Alife.Function.Speech",
+  "name": "语音说话",
+  "description": "赋予AI文字转语音输出能力。",
+  "dependencies": {
+    "Alife.Function.FunctionCaller": "",
+    "Alife.Function.SpeechModel": ""
+  },
+  "environments": {
+    "nuget": {
+      "NAudio": ">=2.3.0",
+      "org.k2fsa.sherpa.onnx": ">=1.13.2"
+    }
+  },
+  "releases": {
+    "1.0.0": {
+      "date": "2026-6-11",
+      "note": "初始版本",
+      "file": "https://github.com/BDFFZI/Alife.Functions/raw/refs/heads/main/Alife.Function.Speech/1.0.0.zip"
+    }
+  }
+}

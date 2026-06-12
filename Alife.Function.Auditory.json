@@ -1,0 +1,15 @@
+{
+  "id": "Alife.Function.Auditory",
+  "name": "语音识别",
+  "description": "为AI提供语音识别能力，通过Windows AudioGraph捕获音频并送入识别模型。",
+  "dependencies": {
+    "Alife.Function.AuditoryModel": ""
+  },
+  "releases": {
+    "1.0.0": {
+      "date": "2026-6-11",
+      "note": "初始版本",
+      "file": "https://github.com/BDFFZI/Alife.Functions/raw/refs/heads/main/Alife.Function.Auditory/1.0.0.zip"
+    }
+  }
+}
