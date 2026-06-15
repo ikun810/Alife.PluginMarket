@@ -8,7 +8,7 @@
   "releases": {
     "1.0.2": {
       "date": "2026-06-15",
-      "note": "适配新版框架: InteractiveModule<IrmiaDevKitModule>自引用写法，替换RegisterXmlFunction为ImageGen样式",
+      "note": "适配新版框架: InteractiveModule<IrmiaDevKitModule>自引用写法",
       "file": "https://github.com/xioaxixi877/IrmiaDevKit/archive/refs/heads/main.zip"
     }
   }
